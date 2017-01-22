@@ -1,0 +1,14 @@
+# IntelliJ project files
+.idea
+*.iml
+*.ipr
+*.iws
+
+*.sh
+
+# Mac files
+*.DS_Store
+
+# Node
+node_modules
+yarn.lock
